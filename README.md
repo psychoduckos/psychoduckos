@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi there! 
 
-<!--
-**psychoduckos/psychoduckos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm Vladislav, I'm 17 and here I want to tell you something about myself. I started maintaining this github on 08/18/22, and started programming on 01/23/22. A month later I got a job and this is what I achieved:
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Blockchain+developer!)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![trophy](https://github-profile-trophy.vercel.app/?username=psychoduckos)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=psychoduckos)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psychoduckos)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=psychoduckos&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=psychoduckos&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=psychoduckos&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=psychoduckos&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=psychoduckos&theme=solarized_dark)
+
+
+
